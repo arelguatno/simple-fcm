@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "439770005101",
+    "project_id": "fcm-play-aac5f",
+    "storage_bucket": "fcm-play-aac5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439770005101:android:9755a7d4d5d08511138964",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439770005101-707qftn7pkdg46skcduve1bfbnqe73o1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6doMPwGp99nOeXRnZqtanqaQz2yXTf3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439770005101-707qftn7pkdg46skcduve1bfbnqe73o1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
